@@ -1,1 +1,3 @@
 Hello this is the first file in the repository!
+
+Today is the first class of 2025.
